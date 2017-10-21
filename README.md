@@ -1,6 +1,3 @@
-title: So you get memory leak in XCTest
-date: 2017-10-21 13:54:00
----
 ## 0 致敬
 
 我把标题命名为 So you get memory leak in XCTest 是致敬 [[objc explain]: So you crashed in objc_msgSend()](http://sealiesoftware.com/blog/archive/2008/09/22/objc_explain_So_you_crashed_in_objc_msgSend.html)
